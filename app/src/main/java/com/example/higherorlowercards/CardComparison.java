@@ -2,7 +2,7 @@ package com.example.higherorlowercards;
 
 public class CardComparison {
 
-    public static String isCardLarger(String cardA, String cardB) {
+    public statc String isCardLarger(String cardA, String cardB) {
             String[] suits = {"diamonds", "clubs", "hearts", "spades"};
 
             //Card A
